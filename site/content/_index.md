@@ -18,8 +18,8 @@ Laktatsiani oshiradi.
 Ovqat hazm qilish jarayonini tartibga soladi. Eng muhimi HALOL."
 
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    heading: "Yetkazib berish xizmati"
+    text: "Shahar markaziga bepul yetkazib berish xizmati mavjud. Butun O'zbekiston boyicha pochta orqali yuborish ham yolga qoyilgan."
 products:
     - image: img/illustrations-coffee.svg
       text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
