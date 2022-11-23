@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 blurb:
     heading: Tarkibi
     text: "100% sof yuqori sifatli Quddus Madjoul xurmo meva sharbati.
-INREDIENTLAR: - Xurmo mevasi 100%  ZAM-ZAM suv 20% 
+INREDIENTLAR: <br>- Xurmo mevasi 100%  ZAM-ZAM suv 20% 
 - bo'yoqlarsiz
 - konservantlarsiz 
 - shakar qo'shilmagan 
