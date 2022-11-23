@@ -5,7 +5,7 @@ image: /img/home-jumbotron.jpg
 blurb:
     heading: Tarkibi
     text: "100% sof yuqori sifatli Quddus Madjoul xurmo meva sharbati.
-##INREDIENTLAR: 
+##INGREDIENTLAR: 
 
 - Xurmo mevasi 100%  ZAM-ZAM suv 20% 
 - bo'yoqlarsiz
@@ -16,6 +16,7 @@ Organizmdagi energiya darajasini oshiradi va tanaga oson so'riladi.
 Xomilador ayollar uchun tabiiy vitamin manbai.
 Laktatsiani oshiradi.
 Ovqat hazm qilish jarayonini tartibga soladi. Eng muhimi HALOL."
+
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
