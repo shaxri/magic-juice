@@ -27,14 +27,6 @@ products:
       text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
 values:
     heading: Hurmoning foydali xususiyatlari
-    text: Xurmo muqaddas Islom dinida jannat ne'matlaridan biri sifatida ulug‘lanadi. Qur'oni Karimda boshqa mevali daraxtlarga qaraganda ko‘proq ya'ni 22 bor eslatib o‘tilgan.
-
-⠀
-
-  Xurmo homilador va endigina ko‘zi yorigan ayollar uchun a'lo darajadagi oziq, shuningdek, quvvat baxsh etuvchi, tetiklashtiruvchi, chaqaloq uchun yagona ovqat bo‘lgan sutning kelishini ta'minlovchi mevadir.
-
-⠀
-
-  Allohning Maryamga bu mevani yeyishni tavsiya qilishida buyuk donolik yotadi. Uning yaqindagina zamonaviy tibbiyot fani orqali aniqlangan foydalari allaqachon 1400 yil avval Qur'onda ta'kidlab o‘tilgan edi.
+    text: Xurmo muqaddas Islom dinida jannat ne'matlaridan biri sifatida ulug‘lanadi. Qur'oni Karimda boshqa mevali daraxtlarga qaraganda ko‘proq ya'ni 22 bor eslatib o‘tilgan. Xurmo homilador va endigina ko‘zi yorigan ayollar uchun a'lo darajadagi oziq, shuningdek, quvvat baxsh etuvchi, tetiklashtiruvchi, chaqaloq uchun yagona ovqat bo‘lgan sutning kelishini ta'minlovchi mevadir. Allohning Maryamga bu mevani yeyishni tavsiya qilishida buyuk donolik yotadi. Uning yaqindagina zamonaviy tibbiyot fani orqali aniqlangan foydalari allaqachon 1400 yil avval Qur'onda ta'kidlab o‘tilgan edi.
 ---
 
