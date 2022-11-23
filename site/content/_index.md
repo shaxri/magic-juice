@@ -1,10 +1,19 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Magic Juice"
+subtitle: Healthy Energy
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Tarkibi
+    text: "100% sof yuqori sifatli Quddus Madjoul xurmo meva sharbati.
+INREDIENTLAR: - Xurmo mevasi 100%  ZAM-ZAM suv 20% 
+- bo'yoqlarsiz
+- konservantlarsiz 
+- shakar qo'shilmagan 
+FOYDALARI: - Kaliy, Kaltsiy, Foliy, Temir, Rux, A, B1, B vitaminlariga boy. 
+Organizmdagi energiya darajasini oshiradi va tanaga oson so'riladi.
+Xomilador ayollar uchun tabiiy vitamin manbai.
+Laktatsiani oshiradi.
+Ovqat hazm qilish jarayonini tartibga soladi. Eng muhimi HALOL."
 intro:
     heading: "What we offer"
     text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
